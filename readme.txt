@@ -1,3 +1,7 @@
+- Added tess3.zip - zipped content of fully working PocketOCR project with all Tesseract3 sources and libs compiled from scratch with fixed version of building script for iphone 4.2
+
+
+==========================
 Pocket OCR
 Tesseract OCR for iPhone
 
