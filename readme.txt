@@ -1,9 +1,9 @@
-- Added rcarlsen-Pocket-OCR-6f49b9f.zip. This is zipped content of fully working PocketOCR project by rcarlsen with 
+- Added rcarlsen-Pocket-OCR-6f49b9f.zip. This is zipped content of fully working PocketOCR XCode project by rcarlsen bundled with: 
 -- full tesseract3 with libs compiled from scratch from sources (sources included) with properly updated building script for tess3/iphone 4.2
 -- full opencv 2.1 also with libs compiled from scratch from sources (sources included) with working build script for opencv 2.1/iphone 4.2
--- some opencv filters applied before OCRing image to demo purposes
-Project works out of the box for iphone and simulator, nothing stripped (that is why it is so big :) ) and ready to play in xcode 
+-- some opencv filters applied to image before OCRing it image for demo purposes
 
+Project works out of the box (both for iphone and simulator), nothing stripped, that is why it is so big :) 
 ==========================
 Pocket OCR
 Tesseract OCR for iPhone
